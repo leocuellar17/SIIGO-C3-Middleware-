@@ -1,0 +1,16 @@
+{
+    "siigo_api": {
+        "username": "TU_USERNAME_AQUI",
+        "access_key": "TU_ACCESS_KEY_AQUI",
+        "base_url": "https://api.siigo.com/v1",
+        "document_id": 123,
+        "seller_id": 101,
+        "cost_center": 1,
+        "default_product_code": "PENSION_MENSUAL",
+        "default_payment_id": 1234
+    },
+    "settings": {
+        "output_folder": "./resultados",
+        "tolerance_pesos": 10
+    }
+}
